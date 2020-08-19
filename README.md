@@ -1,2 +1,2 @@
 # operating-system
-opening application using python
+opening operating system application using python
